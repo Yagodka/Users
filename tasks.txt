@@ -1,11 +1,5 @@
-todo 1. Создать репозитарий на Github
 todo 2. Подключить Spring
-todo 3. Подключить Hibernate
 todo 4. Установить Tomcat
-todo 5. Установить Mysql
-    todo 5.1. Подключить драйвера, база test, пользователь root/root
-    todo 5.2. Класс User
-            id (int8), name (varchar(25)), age (int), isAdmin(bit), createdDate(timestamp)
 todo 6. Vaadin
 todo 7. Unit tests
 todo 8. SQL script
